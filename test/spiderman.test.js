@@ -1,3 +1,5 @@
+const Spiderman = require('../app/Spiderman');
+
 describe("Test Suite Dummy Description", () => {
   test('1. Create an spiderman object', () => {
     const andrewGarfield = new Spiderman("Spiderman Sony", 31, "Andrew Garfield, 2", "Sony")
